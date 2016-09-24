@@ -1,1 +1,1 @@
-cd /home/dlcmh/projects/bookmarks && rails s -p 21710 -d -e production
+cd /home/dlcmh/repos/distributed-workflow/briefnotes && rails s -p 30175 -d -e production
